@@ -103,7 +103,7 @@ P6
 ---
 
 ## 💡 Usage Examples
-![ The first photo ever taken of a giant squid in its habitat, 2004 ](https://github.com/vishnuparihar2008/image-viewer/util/ss.png)
+![ The first photo ever taken of a giant squid in its habitat, 2004 ](https://github.com/vishnuparihar2008/image-viewer/blob/main/util/ss.png)
 
 ---
 
