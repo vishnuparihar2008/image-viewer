@@ -131,7 +131,7 @@ image-viewer/
 
 ## 👩‍💻 Author
 
-**Aparna** — [vishnuparihar2008](https://github.com/vishnuparihar2008)
+**Vishnu** — [vishnuparihar2008](https://github.com/vishnuparihar2008)
 
 ---
 
