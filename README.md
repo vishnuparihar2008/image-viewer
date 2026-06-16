@@ -61,7 +61,7 @@ Make sure you have the following installed:
 
 - Compile the project:
 ```bash
-gcc -Wall -Wextra -g -o main main.c `sdl2-config --cflags --libs`
+gcc -Wall -Wextra -g -o bin/main main.c `sdl2-config --cflags --libs`
 ```
 This compiles `main.c` and links the SDL2 library automatically.
 
@@ -70,7 +70,7 @@ This compiles `main.c` and links the SDL2 library automatically.
 
 - Run the project:
 ```bash
-cat images/image.ppm | ./main 
+cat images/image.ppm | ./bin/main 
 ```
 
 > [!NOTE]  
